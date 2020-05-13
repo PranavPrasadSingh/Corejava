@@ -18,7 +18,6 @@ class Customer {
 	long phone;
 
 	void show() {
-
 		System.out.println(cid);
 		System.out.println(cname);
 		System.out.println(phone);
