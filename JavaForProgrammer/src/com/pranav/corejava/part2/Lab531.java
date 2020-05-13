@@ -1,4 +1,4 @@
-package com.pranav.corejava;
+package com.pranav.corejava.part2;
 
 class Lab531 {
 	public static void main(String[] args) {
